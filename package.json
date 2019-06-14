@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js",
-    "client": "  cd mapp && npm start",
+    "client": "  cd client && npm start",
     "dev": "concurrently \"npm run server\" \"npm run client\" "
   },
   "keywords": [],
