@@ -1,0 +1,23 @@
+.fade-enter{
+  opacity: 0.01;
+  color: green
+  
+}
+.fade-enter-active{
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+
+}
+
+.fade-exit{
+  opacity: 0.01;
+  color: red
+}
+.fade-exit-active{
+  opacity: 1;
+  transition: opacity 1000ms ease-in
+}
+
+.right{
+  margin-left:  auto
+}
