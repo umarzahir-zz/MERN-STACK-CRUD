@@ -12,6 +12,7 @@ open project in vscode.
 open terminal.
 write " npm i ".
 write "cd client" then " npm i ".
+write "cd.." to go back to server dir 
 Now write "npm run dev" to run both SERVER and CLIENT Councurrently
 you are good to use this app
 Thank you.
